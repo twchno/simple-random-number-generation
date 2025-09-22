@@ -1,2 +1,3 @@
 # simple-random-number-generation
-basic random number generator made in python
+Basic random number generator made in Python.
+Anyone could probably make this.
