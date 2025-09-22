@@ -1,5 +1,4 @@
 import random
-import math
 
 
 #displays the main menu
